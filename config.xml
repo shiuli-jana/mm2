@@ -128,9 +128,12 @@
     <!-- <plugin name="cordova-plugin-file-opener2" spec="2.0.19" /> -->
     <!-- <plugin name="cordova-plugin-file-transfer" spec="1.7.1" /> -->
 
-    <plugin name="cordova-plugin-file" source="npm"/>
-    <plugin name="cordova-plugin-file-opener2" source="git" spec="https://github.com/neptsoft/cordova-plugin-file-opener2"/>
-    <plugin name="cordova-plugin-file-transfer" source="npm"/>
+    <!-- <plugin name="cordova-plugin-file" source="npm"/> -->
+    <!-- <plugin name="cordova-plugin-file-opener2" source="git" spec="https://github.com/neptsoft/cordova-plugin-file-opener2"/> -->
+    <!-- <plugin name="cordova-plugin-file-transfer" source="npm"/> -->
+
+    <gap:plugin name="cordova-plugin-file" source="npm"  />
+    <gap:plugin name="cordova-plugin-file-transfer" source="npm" version="1.6.3" />
 
     <plugin name="cordova-plugin-globalization" spec="1.11.0" />
     <plugin name="cordova-plugin-inappbrowser" spec="3.1.0" />
