@@ -3,7 +3,7 @@
     <name>Track-Learning</name>
     <description>A next generation Learning Management System</description>
     <author email="info@track-learning.com" href="http://moodle.com">Track-Learning team</author>
-    <content src="https://www.track-learning.com" />
+    <!-- <content src="https://www.track-learning.com" /> -->
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
     <access launch-external="yes" origin="mailto:*" />
