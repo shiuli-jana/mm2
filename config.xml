@@ -133,7 +133,7 @@
     <!-- <plugin name="cordova-plugin-file-transfer" source="npm"/> -->
 
     <gap:plugin name="cordova-plugin-file" source="npm"  />
-    <gap:plugin name="cordova-plugin-file-transfer" source="npm" version="1.6.3" />
+    <gap:plugin name="cordova-plugin-file-transfer" source="npm" />
 
     <plugin name="cordova-plugin-globalization" spec="1.11.0" />
     <plugin name="cordova-plugin-inappbrowser" spec="3.1.0" />
